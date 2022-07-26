@@ -2,3 +2,4 @@ env.py
 *.csv
 *.pdf
 *.jpg
+pandas_assessment.ipynb
